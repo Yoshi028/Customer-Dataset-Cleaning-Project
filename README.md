@@ -78,6 +78,10 @@ The raw data included the following common problems:
   - `  Winger` → `Winger`
 
 ---
+
+### **2. Standardized phone numbers**
+Steps included:
+- Removed all non-numeric characters using:  
 Text.Select([Phone_Number], {"0".."9"})
 
 - Reformatted to a consistent format:  
@@ -134,14 +138,10 @@ Converted all values to a standard format:
 ---
 
 ## 📂 Project Structure
-### **2. Standardized phone numbers**
-Steps included:
-- Removed all non-numeric characters using:  
 ├── data/  
 │ ├── customers_raw.csv  
 │ ├── customers_clean.csv  
 ├── README.md  
-└── cleaning_steps_documentation.md (optional)
 
 
 ---

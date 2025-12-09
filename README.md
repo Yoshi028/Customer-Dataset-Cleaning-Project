@@ -86,7 +86,7 @@ Text.Select([Phone_Number], {"0".."9"})
 
 - Reformatted to a consistent format:  
 `1235455421` → `123-545-5421`
-- Replaced invalid values (`"N/a"`, `"--"`, `"Na--Na"`) → **null**
+- Replaced invalid values (`"N/a"`) → **null**
 
 ---
 

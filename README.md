@@ -141,7 +141,7 @@ Converted all values to a standard format:
 ├── data/  
 │ ├── customers_raw.csv  
 │ ├── customers_clean.csv  
-├── README.md  
+└── README.md  
 
 
 ---

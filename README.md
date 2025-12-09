@@ -51,7 +51,7 @@ The raw data included the following common problems:
 ### **3. Mixed data types**
 - `Paying Customer` included: `Yes`, `No`, `Y`, `N`
 - `Do_Not_Contact` included: `Yes`, `No`, `Y`, `N`, blanks
-- Phone number column contained text like: `"--"`, `"Na--Na"`
+- Phone number column contained text like: `"--"`, `"N/a"`
 
 ---
 

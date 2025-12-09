@@ -91,7 +91,6 @@ Text.Select([Phone_Number], {"0".."9"})
 ---
 
 ### **3. Cleaned Address**
-- `"Unknown"` → **null**
 - `"N/a"` → **null**
 - Retained addresses where formatting was correct
 

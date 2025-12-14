@@ -140,6 +140,9 @@ Converted all values to a standard format:
 ├── data/  
 │ ├── customers_raw.csv  
 │ ├── customers_clean.csv  
+├──images/  
+│ ├── cleaned_sample.png  
+│ ├── raw_sample.png  
 └── README.md  
 
 
